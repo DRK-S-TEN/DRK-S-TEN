@@ -45,25 +45,14 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dark-s-ten&theme=highcontrast" alt="dark-s-ten streak stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-s-ten&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
 
 ---
 
-<h3 align="center">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dark-s-ten&theme=dracula" alt="Contribution Graph" />
-</p>
 
 ---
 
-<h3 align="center">Fun Animations:</h3>
+<h3 align="center">Animations:</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200"/>
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" height="200"/>
