@@ -44,15 +44,9 @@ Je m'entraîne à devenir un développeur Full Stack <img src="https://media.gip
 
 ---
 
-### :fire: Mes statistiques :
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dark-s-ten&theme=dark" alt="Streak stats de 𝙎-𝙏𝞢𝞜"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-s-ten&layout=compact&theme=vision-friendly-dark" alt="Top Langs de 𝙎-𝙏𝞢𝞜"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=👾+DRK_ST㊙️;WhatsApp+Multi-Device+Bot" alt="Typing SVG" />
+</h1>
 
 ---
 
