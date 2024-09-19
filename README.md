@@ -53,7 +53,7 @@
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="right" alt="Coding<img align="right" alt="Coding" width="400" src="https://i.imgur.com/ouNJFTT.png">"
 
 <h3 align="left">Languages and Tools:</h3>
 
