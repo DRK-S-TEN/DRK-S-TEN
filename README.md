@@ -1,57 +1,87 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/E0O29EX.gif/tumblr_pun53hNdAw1t2ijmjo1_540.gif" height="200"/> <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=dark-s-ten&style=flat-square&color=blue" alt=""/>
-</div>
+![logo](https://imgur.com/ERGVvpZ)
 
-<h1 align="center">
-  Salut, je suis 𝙎-𝙏𝞢𝞜
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<div align="center">
-   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1 align="center">Hi 👋, I'm 𝙎-𝙏𝞢𝞜</h1>
+<h3 align="center">A passionate Developer from DRK-ST-TECH</h3>
 
----
+<p align="center">I'm fascinated by how technology is shaping the world and always strive to create impactful projects. I'm passionate about learning new tech stacks and building solutions that blend creativity and functionality.</p>
 
-### :man_technologist: À propos de moi :
-
-Je m'entraîne à devenir un développeur Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- 🔭 Je suis un étudiant passionné par la technologie, spécialisé dans le développement d'applications. Curieux d'apprendre de nouvelles compétences, je travaille à améliorer mes capacités en programmation pour contribuer à des projets innovants.
-
-- 🌱 Je travaille régulièrement sur des projets éducatifs, tels que des applications web, des sites, et des bots en **Node.js**.
-
-- 📱 Me contacter : **50931461936**. Disponible pour toute collaboration et projet intéressant.
-
----
-
-### :hammer_and_wrench: Langages et outils principaux :
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=👾+DRK_ST㊙️;WhatsApp+Multi-Device+Bot" alt="Typing SVG" />
-</h1>
-
----
-
-### :sparkles: Animation personnalisée :
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="200" alt="Animation avec le nom 𝙎-𝙏𝞢𝞜"/>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=DRK-S-TEN&label=Profile%20views&color=0e75b6&style=flat" alt="DRK-ST-TECH" />
 </p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br><br>
+
+- 🔭 I’m currently working on **DRK-ST-TECH Projects**
+
+- 🌱 I’m currently learning **DevOps and cloud technologies**
+
+- 👨‍💻 All of my projects are available at [DRK-ST GitHub](https://github.com/DRK-S-TEN)
+
+- 📫 How to reach me: **sandrk766@gmail.com**
+
+- ⚡ Fun fact: **I think code is the ultimate form of creativity**
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DRK-TECH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py" />
+  </a>
+</p>
+
+- **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind" />
+  </a>
+</p>
+
+- **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+
+![DRK-ST GitHub stats](https://github-readme-stats.vercel.app/api?username=DRK-S-TEN&theme=midnight-purple&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DRK-S-TEN&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
